@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EC | Gol TV SD" tvg-logo="http://144.217.91.146/Logos/Ecuador/gol-tv-us.png" group-title="ECUADOR ®",EC | Gol TV SD
+http://ecuaplaytv.com:8000/Demojssj/hshs66/81358
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER CHANNEL LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="CINE SD",CINE | WARNER CHANNEL LAT.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82506
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT" tvg-logo="" group-title="CINE SD",CINE | TNT
+http://ecuaplaytv.com:8000/Demojssj/hshs66/79299
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/disney-xd-us.png" group-title="PREMIUM LOW",Disney XD (Low)
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82715
+#EXTINF:-1 tvg-id="" tvg-name="INFANTILES  | NICKELODEON SD LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",INFANTILES  | NICKELODEON SD LAT.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/109215
+#EXTINF:-1 tvg-id="" tvg-name="A&E (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/ae-us.png" group-title="PREMIUM LOW",A&E (Low)
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82702
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA  | ANIMAL PLANET MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CULTURA",CULTURA  | ANIMAL PLANET MX 
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82385
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE SD",CINE | CINECANAL Lat.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/109402
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE SD",CINE | AMC Lat.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/109132
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX Lat." tvg-logo="" group-title="CINE SD",CINE | CINEMAX Lat.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/113615
