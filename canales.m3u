@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EC | Gol TV SD" tvg-logo="http://144.217.91.146/Logos/Ecuador/gol-tv-us.png" group-title="ECUADOR ®",EC | Gol TV SD
-http://ecuaplaytv.com:8000/Demojssj/hshs66/81358
+#EXTINF:-1 tvg-id="" tvg-name="EC | GOLTV ECUADOR" tvg-logo="https://archive.org/download/goltv/goltv.png" group-title="LIGA PRO ECUADOR",EC | GOLTV ECUADOR
+http://ecuaplaytv.com:8000/Demojssj/hshs66/68663
+#EXTINF:-1 tvg-id="" tvg-name="EC | GOLTV ECUADOR HD" tvg-logo="https://archive.org/download/goltv/goltv.png" group-title="LIGA PRO ECUADOR",EC | GOLTV ECUADOR HD
+http://ecuaplaytv.com:8000/Demojssj/hshs66/100012
 #EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER CHANNEL LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="CINE SD",CINE | WARNER CHANNEL LAT.
 http://ecuaplaytv.com:8000/Demojssj/hshs66/82506
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT" tvg-logo="" group-title="CINE SD",CINE | TNT
-http://ecuaplaytv.com:8000/Demojssj/hshs66/79299
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/disney-xd-us.png" group-title="PREMIUM LOW",Disney XD (Low)
 http://ecuaplaytv.com:8000/Demojssj/hshs66/82715
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES  | NICKELODEON SD LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",INFANTILES  | NICKELODEON SD LAT.
@@ -19,3 +19,23 @@ http://ecuaplaytv.com:8000/Demojssj/hshs66/109402
 http://ecuaplaytv.com:8000/Demojssj/hshs66/109132
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX Lat." tvg-logo="" group-title="CINE SD",CINE | CINEMAX Lat.
 http://ecuaplaytv.com:8000/Demojssj/hshs66/113615
+#EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULA (L) MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE SD",CINE | DE PELICULA (L) MX
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82408
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FX Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE SD",CINE | FX Lat.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/109261
+#EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alf.svAlfg/1200px-Alf.svg.png" group-title="CANALES 24/7®",
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82844
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="CINE SD",CINE | GOLDEN MX
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82449
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="CINE SD",CINE | TNT MX
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82493
+#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT Lat." tvg-logo="https://www.stickpng.com/assets/images/58483b6584e35b574e745380.png" group-title="CINE SD",CINE | PARAMOUNT Lat.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/109293
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE Lat." tvg-logo="" group-title="CINE SD",CINE | SPACE Lat.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/113634
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/fox-global.png" group-title="PREMIUM LOW",Fox Channel (Low)
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82720
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA  | MTV LIVE MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSICA",MUSICA  | MTV LIVE MX
+http://ecuaplaytv.com:8000/Demojssj/hshs66/82463
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SERIES Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE SD",CINE | TNT SERIES Lat.
+http://ecuaplaytv.com:8000/Demojssj/hshs66/109304
