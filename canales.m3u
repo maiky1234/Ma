@@ -17,3 +17,5 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 http://tvporinternet.eshost.com.ar/m3u/goltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EC | GOLTV ECUADOR HD" tvg-logo="https://archive.org/download/goltv/goltv.png" group-title="LIGA PRO ECUADOR",EC | GOLTV ECUADOR HD
 http://tvporinternet.eshost.com.ar/m3u/goltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="ESPAÑA", Lancelot TV | SD
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
