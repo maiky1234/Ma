@@ -16,7 +16,7 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="EC | TVC FHD" tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2.jpg" group-title="ECUADOR ®",EC | TVC FHD
 http://ecuaplaytv.com:8000/Demojssj/hshs66/81371
 #EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER CHANNEL LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="CINE SD",CINE | WARNER CHANNEL LAT.
-http://cinematicket.club/tp2.php?c=52&p=3&k=tecnotv&f=.m3u8
+http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA  | DISCOVERY CHANNEL MX" tvg-logo="https://img2.freepng.es/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="CULTURA",CULTURA  | DISCOVERY CHANNEL MX
 http://gangafree.com:25461/44763/85178/40491
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA  | ANIMAL PLANET MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CULTURA",CULTURA  | ANIMAL PLANET MX 
