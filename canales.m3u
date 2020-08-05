@@ -16,7 +16,7 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="EC | TVC FHD" tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2.jpg" group-title="ECUADOR ®",EC | TVC FHD
 http://ecuaplaytv.com:8000/Demojssj/hshs66/81371
 #EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER CHANNEL LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="CINE SD",CINE | WARNER CHANNEL LAT.
-http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+http://cinematicket.club/tp2.php?c=52&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA  | DISCOVERY CHANNEL MX" tvg-logo="https://img2.freepng.es/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="CULTURA",CULTURA  | DISCOVERY CHANNEL MX
 http://gangafree.com:25461/44763/85178/40491
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA  | ANIMAL PLANET MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CULTURA",CULTURA  | ANIMAL PLANET MX 
@@ -56,11 +56,11 @@ http://gangafree.com:25461/44763/85178/38079
 #EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="CINE SD",CINE | GOLDEN MX
 http://gangafree.com:25461/44763/85178/38093
 #EXTINF:-1 tvg-id="" tvg-name="CINE | I SAT MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="CINE SD",CINE | I SAT MX
-http://ecuaplaytv.com:8000/Demojssj/hshs66/82457
+http://cinematicket.club/tp2.php?c=135&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT Lat." tvg-logo="https://www.stickpng.com/assets/images/58483b6584e35b574e745380.png" group-title="CINE SD",CINE | PARAMOUNT Lat.
 http://gangafree.com:25461/44763/85178/38100
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE Lat." tvg-logo="" group-title="CINE SD",CINE | SPACE Lat.
-http://ecuaplaytv.com:8000/Demojssj/hshs66/113634
+http://cinematicket.club/tp2.php?c=129&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | STUDIO UNIVERSAL MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE SD",CINE | STUDIO UNIVERSAL MX
 http://ecuaplaytv.com:8000/Demojssj/hshs66/82481
 #EXTINF:-1 tvg-id="" tvg-name="CINE | TCM Lat." tvg-logo="" group-title="CINE SD",CINE | TCM Lat.
@@ -74,7 +74,7 @@ http://gangafree.com:25461/44763/85178/38075
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FX Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE SD",CINE | FX Lat.
 http://gangafree.com:25461/44763/85178/38090
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOS | COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="MUNDOS SD",MUNDOS | COMEDY CENTRAL
-http://ecuaplaytv.com:8000/Demojssj/hshs66/80652
+http://cinematicket.club/tp2.php?c=341&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | EL GOURMET MX" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/02/Logo-EG-fondo-blanco-copia-1900x2009_c.png" group-title="CULTURA",CULTURA | EL GOURMET MX
 http://ecuaplaytv.com:8000/Demojssj/hshs66/79540
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOS | FOOD NETWORK MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDOS SD",MUNDOS | FOOD NETWORK MEXICO
