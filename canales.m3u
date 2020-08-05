@@ -14,9 +14,9 @@ http://181.198.153.175:5001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS HD" tvg-logo="http://144.217.91.146/Logos/Ecuador/teleamazonas.png" group-title="ECUADOR ®",EC | TELEAMAZONAS HD
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EC | GOLTV ECUADOR" tvg-logo="https://archive.org/download/goltv/goltv.png" group-title="LIGA PRO ECUADOR",EC | GOLTV ECUADOR
-http://gangafree.com:25461/57068/43111/37992
+http://gangafree.com:25461/44763/85178/37992
 #EXTINF:-1 tvg-id="" tvg-name="EC | GOLTV ECUADOR HD" tvg-logo="https://archive.org/download/goltv/goltv.png" group-title="LIGA PRO ECUADOR",EC | GOLTV ECUADOR HD
-http://gangafree.com:25461/57068/43111/37992
+http://gangafree.com:25461/44763/85178/37992
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="ESPAÑA", Lancelot TV | SD
-http://gangafree.com:25461/57068/43111/37992
+http://gangafree.com:25461/44763/85178/37992
 
