@@ -29,22 +29,30 @@ http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/276
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/63
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CARACOL HD" tvg-logo="https://vignette.wikia.nocookie.net/colombia/images/5/53/CaracolTV2017.png/revision/latest?cb=20180323002550&path-prefix=es" group-title="COLOMBIA",COLOMBIA | CARACOL HD
 http://gangafree.com:25461/44763/85178/38019
-#EXTINF:-1 tvg-id="" tvg-name="EC | DIRECTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="ECUADOR ®",EC | DIRECTV SPORTS HD
-http://gangafree.com:25461/44763/85178/37975
+#EXTINF:-1 tvg-id="" tvg-name="EC: DIRECTV SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Ecuador",EC: DIRECTV SPORTS
+http://iptvmedia.live:8080/test-68d46d/c27c/47899
+#EXTINF:-1 tvg-id="" tvg-name="EC: DIRECTV Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Ecuador",EC: DIRECTV Sports 1
+http://iptvmedia.live:8080/test-68d46d/c27c/167020
+#EXTINF:-1 tvg-id="" tvg-name="EC: Directv Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Ecuador",EC: Directv Sports 2
+http://iptvmedia.live:8080/test-68d46d/c27c/167019
+#EXTINF:-1 tvg-id="" tvg-name="EC: DIRECTV Sports Plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Ecuador",EC: DIRECTV Sports Plus
+http://iptvmedia.live:8080/test-68d46d/c27c/167021
 #EXTINF:-1 tvg-id="" tvg-name="ESPN (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/espn-us.png" group-title="PREMIUM LOW",ESPN (Low)
 http://gangafree.com:25461/44763/85178/37981
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/espn-2.png" group-title="PREMIUM LOW",ESPN 2 (Low)
 http://gangafree.com:25461/44763/85178/37977
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Low)" tvg-logo="" group-title="PREMIUM LOW",ESPN 3 (Low)
 http://gangafree.com:25461/44763/85178/37979
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS ARG.
-http://gangafree.com:25461/44763/85178/37990
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS 2 ARG.
-http://gangafree.com:25461/44763/85178/37986
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS 3 ARG.
-http://gangafree.com:25461/44763/85178/37988
-#EXTINF:-1 tvg-id="" tvg-name="EC | GOLTV ECUADOR" tvg-logo="https://archive.org/download/goltv/goltv.png" group-title="LIGA PRO ECUADOR",EC | GOLTV ECUADOR
-http://gangafree.com:25461/44763/85178/37992
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARG." tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/30fdc56a8b589084fb9df108e5eab4ae.png" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS ARG.
+http://iptvmedia.live:8080/test-68d46d/c27c/8945
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARG." tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a4ce9c580eb02faaeb84aea2f92f11e0.png" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS 2 ARG.
+http://iptvmedia.live:8080/test-68d46d/c27c/3187
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 ARG." tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/67e691ea41c3f0e2aaa7604f65062b29.png" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS 3 ARG.
+http://iptvmedia.live:8080/test-68d46d/c27c/10921
+#EXTINF:-1 tvg-id="" tvg-name="EC: GOL TV ECUADOR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Ecuador",EC: GOL TV ECUADOR HD
+http://iptvmedia.live:8080/test-68d46d/c27c/167025
+#EXTINF:-1 tvg-id="" tvg-name="EC: Gol TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Ecuador",EC: Gol TV HD
+http://iptvmedia.live:8080/test-68d46d/c27c/9163
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE SD",CINE | AMC Lat.
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/31
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE SD",CINE | CINECANAL Lat.
@@ -92,7 +100,7 @@ http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/36
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES | DISCOVERY KIDS Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES",INFANTILES | DISCOVERY KIDS Lat.
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/224
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES | DISNEY CHANNEL Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="INFANTILES",INFANTILES | DISNEY CHANNEL Lat.
-https://ul.cdn946.net:8443/hls/1i90y8b5s.m3u8?s=kfYQVjS8klWJktJyl_wrsw&e=1596630091
+http://iptvmedia.live:8080/test-68d46d/c27c/176079
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES  | DISNEY JR Lat." tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="INFANTILES",INFANTILES  | DISNEY JR Lat.
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/228
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/disney-xd-us.png" group-title="PREMIUM LOW",Disney XD (Low)
@@ -102,7 +110,7 @@ http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/275
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES  | NICKELODEON SD LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",INFANTILES  | NICKELODEON SD LAT.
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/279
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA  | MTV LIVE MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSICA",MUSICA  | MTV LIVE MX
-http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/67
+http://iptvmedia.live:8080/test-68d46d/c27c/175616
 #EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX Action HD
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/47
 #EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX Family HD
