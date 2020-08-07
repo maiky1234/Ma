@@ -16,17 +16,17 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="EC | TVC FHD" tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2.jpg" group-title="ECUADOR ®",EC | TVC FHD
 http://ecuaplaytv.com:8000/Demojssj/hshs66/81371
 #EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER CHANNEL LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="CINE SD",CINE | WARNER CHANNEL LAT.
-http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/84
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA  | DISCOVERY CHANNEL MX" tvg-logo="https://img2.freepng.es/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="CULTURA",CULTURA  | DISCOVERY CHANNEL MX
-http://gangafree.com:25461/44763/85178/40491
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/221
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA  | ANIMAL PLANET MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CULTURA",CULTURA  | ANIMAL PLANET MX 
-http://gangafree.com:25461/44763/85178/40515
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/200
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | NATGEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="CULTURA",CULTURA | NATGEO WILD
 http://gangafree.com:25461/44763/85178/40500
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | NATGEO " tvg-logo="https://www.stickpng.com/assets/images/5a0c74bd9642de34b6b65cf5.png" group-title="CULTURA",CULTURA | NATGEO 
-http://gangafree.com:25461/44763/85178/40501
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/276
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | HISTORY CHANNEL Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_History_Channel-Logo.svg/1200px-The_History_Channel-Logo.svg.png" group-title="CULTURA",CULTURA | HISTORY CHANNEL Lat.
-http://gangafree.com:25461/44763/85178/40503
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/63
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CARACOL HD" tvg-logo="https://vignette.wikia.nocookie.net/colombia/images/5/53/CaracolTV2017.png/revision/latest?cb=20180323002550&path-prefix=es" group-title="COLOMBIA",COLOMBIA | CARACOL HD
 http://gangafree.com:25461/44763/85178/38019
 #EXTINF:-1 tvg-id="" tvg-name="EC | DIRECTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="ECUADOR ®",EC | DIRECTV SPORTS HD
@@ -37,69 +37,69 @@ http://gangafree.com:25461/44763/85178/37981
 http://gangafree.com:25461/44763/85178/37977
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Low)" tvg-logo="" group-title="PREMIUM LOW",ESPN 3 (Low)
 http://gangafree.com:25461/44763/85178/37979
-#EXTINF:-1 tvg-id="" tvg-name="DEP. PREMIUM | FOX SPORTS ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS ARG.
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS ARG.
 http://gangafree.com:25461/44763/85178/37990
-#EXTINF:-1 tvg-id="" tvg-name="DEP. PREMIUM | FOX SPORTS 2 ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS 2 ARG.
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS 2 ARG.
 http://gangafree.com:25461/44763/85178/37986
-#EXTINF:-1 tvg-id="" tvg-name="DEP. PREMIUM | FOX SPORTS 3 ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS 3 ARG.
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 ARG." tvg-logo="" group-title="DEPORTES PREMIUM SD",DEP. PREMIUM | FOX SPORTS 3 ARG.
 http://gangafree.com:25461/44763/85178/37988
 #EXTINF:-1 tvg-id="" tvg-name="EC | GOLTV ECUADOR" tvg-logo="https://archive.org/download/goltv/goltv.png" group-title="LIGA PRO ECUADOR",EC | GOLTV ECUADOR
 http://gangafree.com:25461/44763/85178/37992
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE SD",CINE | AMC Lat.
-http://gangafree.com:25461/44763/85178/38074
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/198
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE SD",CINE | CINECANAL Lat.
-http://gangafree.com:25461/44763/85178/38076
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/215
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX Lat." tvg-logo="" group-title="CINE SD",CINE | CINEMAX Lat.
-http://gangafree.com:25461/44763/85178/38078
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/216
 #EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULA (L) MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE SD",CINE | DE PELICULA (L) MX
 http://gangafree.com:25461/44763/85178/38079
 #EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="CINE SD",CINE | GOLDEN MX
-http://gangafree.com:25461/44763/85178/38093
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/255
 #EXTINF:-1 tvg-id="" tvg-name="CINE | I SAT MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="CINE SD",CINE | I SAT MX
 http://cinematicket.club/tp2.php?c=135&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT Lat." tvg-logo="https://www.stickpng.com/assets/images/58483b6584e35b574e745380.png" group-title="CINE SD",CINE | PARAMOUNT Lat.
-http://gangafree.com:25461/44763/85178/38100
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/281
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE Lat." tvg-logo="" group-title="CINE SD",CINE | SPACE Lat.
-http://cinematicket.club/tp2.php?c=129&p=3&k=tecnotv&f=.m3u8
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/283
 #EXTINF:-1 tvg-id="" tvg-name="CINE | STUDIO UNIVERSAL MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE SD",CINE | STUDIO UNIVERSAL MX
-http://ecuaplaytv.com:8000/Demojssj/hshs66/82481
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/284
 #EXTINF:-1 tvg-id="" tvg-name="CINE | TCM Lat." tvg-logo="" group-title="CINE SD",CINE | TCM Lat.
-http://gangafree.com:25461/44763/85178/38105
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/288
 #EXTINF:-1 tvg-id="" tvg-name="CINE | TNT MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="CINE SD",CINE | TNT MX
-http://gangafree.com:25461/44763/85178/38106
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/80
 #EXTINF:-1 tvg-id="" tvg-name="A&E (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/ae-us.png" group-title="PREMIUM LOW",A&E (Low)
-http://gangafree.com:25461/44763/85178/38073
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/197
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AXN Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE SD",CINE | AXN Lat.
-http://gangafree.com:25461/44763/85178/38075
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/199
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FX Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE SD",CINE | FX Lat.
-http://gangafree.com:25461/44763/85178/38090
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/249
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOS | COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="MUNDOS SD",MUNDOS | COMEDY CENTRAL
-http://cinematicket.club/tp2.php?c=341&p=3&k=tecnotv&f=.m3u8
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/41
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | EL GOURMET MX" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/02/Logo-EG-fondo-blanco-copia-1900x2009_c.png" group-title="CULTURA",CULTURA | EL GOURMET MX
-http://ecuaplaytv.com:8000/Demojssj/hshs66/79540
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/237
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOS | FOOD NETWORK MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDOS SD",MUNDOS | FOOD NETWORK MEXICO
 http://ecuaplaytv.com:8000/Demojssj/hshs66/80659
 #EXTINF:-1 tvg-id="" tvg-name="Fox Channel (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/fox-global.png" group-title="PREMIUM LOW",Fox Channel (Low)
 http://ecuaplaytv.com:8000/Demojssj/hshs66/82720
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES | EWTN" tvg-logo="" group-title="VARIEDADES-NOVELAS",VARIEDADES | EWTN
-http://ecuaplaytv.com:8000/Demojssj/hshs66/87668
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/236
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION  | ENLACE TV SD" tvg-logo="https://cdn.mitvstatic.com/channels/sv_enlace-tbn_m.png" group-title="RELIGION",RELIGION  | ENLACE TV SD
-http://gangafree.com:25461/44763/85178/40475
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/79
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES | BOOMERANG (L)" tvg-logo="https://www.pinclipart.com/picdir/middle/214-2146336_new-boomerang-logo-recreation-boomerang-channel-logo-png.png" group-title="INFANTILES",INFANTILES | BOOMERANG (L)
-https://ul.cdn946.net:8443/hls/54ryn.m3u8?s=cnzYjmys9aTHJiL2af846Q&e=1596631285
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/207
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES | CARTOON NETWORK HD Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png" group-title="INFANTILES",INFANTILES | CARTOON NETWORK HD Lat.
-http://209.126.105.69:25461/mannntvreal/9oSYGKfDnR/56035?token=SRNZU0UMFQkbXAECAFxUUApQXQkDUgIDBAYGAVYAVgJUVQAHAFVWBlsaG0MREUdQU1hmUFITDwMFVVEMTUAXF1dDbltSRg0RCA8AWEBJF0FbWFwbDAAADwZdUwBYVFFIEEFYVhReFQEICgJXQEkXUEpBXEtYUFlpVwAUUAIHQF5cRF1eGkZYXWZcUgwDC1EXCBcIGxoTXEVDR1hXFA4OSBBTWEZEBUNWGwIVU1FVBxceF1pWQ19BREpHWBskIUBIEFRJRlMKRFpWVhVbQBFGFx4XUEppQ1BFRxcHWAwHEEYIEwEQGkZaUkFnVA4MC1BWRlxWV0UTDxQBUFIbTUAPC1xYRV1EO0daXRoNQ1BUBAEHF0Q=
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/212
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES | DISCOVERY KIDS Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES",INFANTILES | DISCOVERY KIDS Lat.
-https://ul.cdn946.net:8443/hls/hh704lol7xvy5s6.m3u8?s=8HsIv4uob9Yc-mBLv1_pmQ&e=1596631447
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/224
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES | DISNEY CHANNEL Lat." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="INFANTILES",INFANTILES | DISNEY CHANNEL Lat.
 https://ul.cdn946.net:8443/hls/1i90y8b5s.m3u8?s=kfYQVjS8klWJktJyl_wrsw&e=1596630091
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES  | DISNEY JR Lat." tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="INFANTILES",INFANTILES  | DISNEY JR Lat.
-https://ul.cdn946.net:8443/hls/lyeydm5d8at8i.m3u8?s=YeKspnslg_dswm9zTay3TQ&e=1596631554
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/228
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/disney-xd-us.png" group-title="PREMIUM LOW",Disney XD (Low)
-https://ul.cdn946.net:8443/hls/s40z6ckg.m3u8?s=wU5AY8TeuErt_CgmohVf5A&e=1596502949
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/229
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES | NAT GEO KIDS SD LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",INFANTILES | NAT GEO KIDS SD LAT.
-https://ul.cdn946.net:8443/hls/pw34a6kvro2m.m3u8?s=MCDrI7Gf1aUYeDIHyH9DtQ&e=1596502560
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/275
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES  | NICKELODEON SD LAT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",INFANTILES  | NICKELODEON SD LAT.
-https://ul.cdn946.net:8443/hls/1bftbo.m3u8?s=-hVu2tIX2eycvOWlHOm8vA&e=1596630598
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/279
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA  | MTV LIVE MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSICA",MUSICA  | MTV LIVE MX
-http://ecuaplaytv.com:8000/Demojssj/hshs66/82463
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/67
