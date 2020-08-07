@@ -80,7 +80,7 @@ http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/237
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOS | FOOD NETWORK MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDOS SD",MUNDOS | FOOD NETWORK MEXICO
 http://ecuaplaytv.com:8000/Demojssj/hshs66/80659
 #EXTINF:-1 tvg-id="" tvg-name="Fox Channel (Low)" tvg-logo="http://144.217.91.146/Logos/United%20States/fox-global.png" group-title="PREMIUM LOW",Fox Channel (Low)
-http://ecuaplaytv.com:8000/Demojssj/hshs66/82720
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/238
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES | EWTN" tvg-logo="" group-title="VARIEDADES-NOVELAS",VARIEDADES | EWTN
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/236
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION  | ENLACE TV SD" tvg-logo="https://cdn.mitvstatic.com/channels/sv_enlace-tbn_m.png" group-title="RELIGION",RELIGION  | ENLACE TV SD
@@ -103,3 +103,13 @@ http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/275
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/279
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA  | MTV LIVE MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSICA",MUSICA  | MTV LIVE MX
 http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/67
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX Action HD
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/47
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX Family HD
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/48
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX HD
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/49
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX Movies HD
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/50
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX Series HD
+http://zufreelist.net:8880/UpYnFS5KbI/R1IZ4OfZ0B/51
